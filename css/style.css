@@ -3,3 +3,35 @@
 .navbar-brand{
     font-family: 'Nerko One', cursive;
 }
+
+#border-nd{
+    border-color: blue;
+}
+
+#border-syriza{
+    border-color: violet;
+}
+
+#border-pasok{
+    border-color: olivedrab;
+}
+
+#border-kke{
+    border-color: red;
+}
+
+#border-ell-lisi{
+    border-color: aqua;
+}
+
+#border-mera-25{
+    border-color: orange;
+}
+
+.card-header{
+    background-color: white;
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+    font-size: large;
+    border-color: white;
+}
